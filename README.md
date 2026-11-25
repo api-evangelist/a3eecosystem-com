@@ -66,7 +66,7 @@
 
 A3E Ecosystem Inc. in Toronto runs focused online businesses for small business: building permit leads for trades, Pub Rescue for Publisher files, free domain and email checks, AI visibility reports and free browser tools.
 
-**Areas:** online-tools · data · AI · small-business · Toronto · Company
+**Areas:** Data · Artificial Intelligence · Small Business · Toronto · Company
 
 ## A3E Ecosystem Inc. on APIs.io
 
@@ -90,14 +90,15 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [A3Eecosystem Com Agentic Access](https://apis.io/agentic-access/a3eecosystem-com/a3eecosystem-com-agentic-access/)
+- [A3E Ecosystem Inc. Agentic Access](https://apis.io/agentic-access/a3eecosystem-com/a3eecosystem-com-agentic-access/)
 
-#### JSON Schema (6)
+#### JSON Schema (7)
 
 The data models the API reads and writes.
 
 - [Body_pdf_to_image_v1_document_pdf_to_image_post](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-body-pdf-to-image-v1-document-pdf-to-image-post/)
 - [Body_split_pdf_v1_document_pdf_split_post](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-body-split-pdf-v1-document-pdf-split-post/)
+- [EmailVerifyRequest](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-email-verify-request/)
 - [QRRequest](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-qrrequest/)
 - [ScreenshotRequest](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-screenshot-request/)
 - [TTSRequest](https://apis.io/schemas/a3eecosystem-com/a3eecosystem-com-ttsrequest/)
@@ -119,20 +120,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [A3Eecosystem Com Authentication](https://apis.io/security/a3eecosystem-com/a3eecosystem-com-authentication/)
-- [A3Eecosystem Com Domain Security](https://apis.io/security/a3eecosystem-com/a3eecosystem-com-domain-security/)
+- [A3E Ecosystem Inc. Authentication](https://apis.io/security/a3eecosystem-com/a3eecosystem-com-authentication/)
+- [A3E Ecosystem Inc. Domain Security](https://apis.io/security/a3eecosystem-com/a3eecosystem-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [A3Eecosystem Com Scopes](https://apis.io/scopes/a3eecosystem-com/a3eecosystem-com-scopes/)
+- [A3E Ecosystem Inc. Scopes](https://apis.io/scopes/a3eecosystem-com/a3eecosystem-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [A3Eecosystem Com Plans Pricing](https://apis.io/plans/a3eecosystem-com/a3eecosystem-com-plans-pricing/)
+- [A3E Ecosystem Inc. Plans Pricing](https://apis.io/plans/a3eecosystem-com/a3eecosystem-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -151,25 +152,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 55.9** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 49.2** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 60.0 |
-| Contract governance | 79.1 |
+| Discoverability | 73.2 |
+| Contract quality | 63.1 |
+| Contract governance | 22.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 42.1 |
-| Access clarity | 73.2 |
+| Access clarity | 74.5 |
 
-**Agent readiness 30.5** — agent-ready
+**Agent readiness 23.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -178,7 +179,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | — |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -187,8 +188,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a3eecosystem-com/](https://apis.io/providers/a3eecosystem-com/).
 
